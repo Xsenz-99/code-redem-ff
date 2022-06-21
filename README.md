@@ -1,2 +1,0 @@
-# phising-ff-coderedem
-Bodoamata
