@@ -6,7 +6,7 @@ banner() {
 
 clear
 
-printf " \e[0;36mCoded by MR.K7C8NG\e[0m"
+printf " \e[0;36mCoded by Xsenz99\e[0m"
 printf " \e[0;36mTAEM BY InDoNeSiA CYBER ErRoR SyStEm\e[0m"
 printf "\n"
 
